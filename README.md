@@ -16,3 +16,4 @@ There is coding challenges to prepare the exam of Google Developers Certificatio
 ## Author
 
 * [Youssef Mourchid](https://www.linkedin.com/in/youssef-mourchid-29396614a): Initial work.
+* https://developers.google.com/certification/associate-android-developer/study-guide/
